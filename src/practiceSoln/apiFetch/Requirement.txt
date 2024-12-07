@@ -1,0 +1,1 @@
+Create a component fetching data from an API and displaying it in a list.
